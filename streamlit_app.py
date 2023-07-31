@@ -1,1 +1,3 @@
-created the main python file
+import streamlit
+
+streamlit.title("Esta es la primera prueba")
